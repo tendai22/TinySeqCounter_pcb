@@ -424,7 +424,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EMUPU_RAM.kicad_pro",
+    "filename": "TinyFreqCounter.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -1068,8 +1068,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "EMUPU_RAM.net",
-      "specctra_dsn": "",
+      "netlist": "TinyFreqCounter.net",
+      "specctra_dsn": "TinyFreqCounter.dsn",
       "step": "",
       "vrml": ""
     },
